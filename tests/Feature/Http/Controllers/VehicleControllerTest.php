@@ -7,7 +7,6 @@ use App\Models\User;
 use App\Models\Vehicle;
 use Database\Seeders\UserSeeder;
 use Database\Seeders\VehicleSeeder;
-use App\Http\Resources\UserResource;
 use App\Http\Resources\VehicleResource;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
